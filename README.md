@@ -23,6 +23,6 @@ Stok takip programı, Ticimax,İdeasoft ve İkas Entegrasyonu
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bybyetm&icon=0&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=bybyetm&icon=0&color=9)](https://bybyetm.com/)
 
 <!-- Proudly created with GPRM ( https://bybyetm.com/ ) -->
