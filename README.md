@@ -2,7 +2,7 @@
 Araştıran, Sürekli Üretmeye Çalışan ve Asla Pes Etmeyen
 
 # ☢ Üzerinde Çalıştığım Projeler
-Stok takip programı, Ticimax,İdeasoft ve İkas Entegrasyonu
+Stok takip programı, Ticimax,İdeasoft,Trendyol ve İkas Entegrasyonu
 
 ## 🌐 Hesaplarım:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dogusen) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/by_byetm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dogukemalsen) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@bybyetm) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/By_byeTM) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bybyetm) 
